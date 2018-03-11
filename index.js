@@ -1,7 +1,7 @@
 module.exports.decorateConfig = config => {
   return Object.assign({}, config, {
     cursorColor: 'rgba(191, 157, 183, 0.5)',
-    foregroundColor: '#737C95',
+    foregroundColor: '#FBF9F9',
     backgroundColor: '#30343F',
     borderColor: '#30343F',
     colors: {
