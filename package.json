@@ -1,0 +1,9 @@
+{
+  "name": "hyper-siemor",
+  "version": "0.0.1",
+  "description": "A theme for closers",
+  "keywords": ["themer", "dark", "hyper"],
+  "main": "index.js",
+  "author": "Dimitrios Lytras <dnlytras@gmail.com>",
+  "repository": "https://github.com/DimitrisNL/hyper-siemor"
+}
