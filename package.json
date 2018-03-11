@@ -1,6 +1,6 @@
 {
   "name": "hyper-siemor",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A theme for closers",
   "keywords": ["themer", "dark", "hyper"],
   "main": "index.js",
